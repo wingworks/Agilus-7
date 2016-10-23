@@ -1,57 +1,57 @@
 # Kite: Agilus-7 #
-  Sail area:                       7.03sqm
-  Aspect ratio:                    4.55
-  Wingspan (flat):                 5.66m
+  Sail area:                       7.08sqm
+  Aspect ratio:                    4.38
+  Wingspan (flat):                 5.57m
   Number of segments:              8
-  Hight:                           1.88m
-  Hight/span:                      0.59
-  Leading edge length:             7.27m
-  Trailing edge length:            5.44m
-  Wingspan (proj.):                3.19m
-  Sail area (proj.):               4.51sqm
-  Aspect ratio (proj.):            2.26
-  Weight:                          1124.33g
+  Hight:                           1.84m
+  Hight/span:                      0.57
+  Leading edge length:             7.28m
+  Trailing edge length:            5.36m
+  Wingspan (proj.):                3.21m
+  Sail area (proj.):               4.54sqm
+  Aspect ratio (proj.):            2.27
+  Weight:                          1135.72g
   Origin:                          -0.07m
   Neutralpoint:                    0.30m
-  Center of gravity:               0.40m
-  Towpoint:                        x: 1.20m, y: 0.08m, z: -2.36m
+  Center of gravity:               0.41m
+  Towpoint:                        x: 1.20m, y: 0.08m, z: -2.30m
   Distances:
     Nose  -> Neutralpoint:         0.37m
     Nose  -> Center of gravity:    0.47m
-    Towpoint -> Neutralpoint:      219.2mm
-  Center of gravity:               31.06%
-  Neutralpoint:                    24.19%
-  Stability:                       -6.86%
+    Towpoint -> Neutralpoint:      221.0mm
+  Center of gravity:               31.46%
+  Neutralpoint:                    24.40%
+  Stability:                       -7.06%
   Flying line length:              25.00m
   Distance towpoint -> bar:        24.97m
-  Volume leading edge:             67l
+  Volume leading edge:             68l
   Volume struts:                   0l
-  Kite volume:                     67l
-  LE bladder length:               7.43m
+  Kite volume:                     68l
+  LE bladder length:               7.48m
 
 ## Segment overview ##
 
 Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  | delta angle  | aoa    | Profile (%)  
 ------------------------------------------------------------------------------------------------------------------------
-   1    |      140      |    710     |   1.51    |      10      |      10      |      20      |  3.2   |     7.5     
-        |           -13 |        -98 |    -0.041 |          +26 |           +2 |           +6 |   +0.0 |         -0.5
-   2    |      127      |    612     |   1.47    |      36      |      12      |      26      |  3.2   |     7.0     
-        |           -11 |        -98 |    -0.109 |          +21 |           +2 |           -5 |   +0.0 |         -1.0
-   3    |      116      |    515     |   1.36    |      57      |      14      |      21      |  3.2   |     6.0     
-        |           -10 |        -98 |    -0.134 |          +17 |           +2 |           -4 |   +0.0 |         -1.0
-   4    |      106      |    417     |   1.23    |      74      |      16      |      17      |  3.2   |     5.0     
-        |            -8 |        -98 |    -0.143 |          +13 |          +18 |           +5 |   +0.0 |         -2.0
-   5    |      98       |    320     |   1.08    |      87      |      34      |      22      |  3.2   |     3.0     
-        |            -7 |       -102 |    -0.236 |           +1 |          +20 |           -2 |   +0.3 |         -2.0
-   6    |      91       |    217     |   0.85    |      88      |      54      |      20      |  3.5   |     1.0     
-        |            -8 |       -181 |    -0.315 |          +32 |          +32 |          +12 |   +0.0 |         +4.0
-   7    |      83       |     36     |   0.53    |     120      |      86      |      32      |  3.5   |     5.0     
-        |            -8 |        -36 |    -0.452 |         -120 |          -86 |          -32 |   -3.5 |         -5.0
-   8    |      75       |     0      |   0.08    |      0       |      0       |      0       |  0.0   |     0.0     
+   1    |      135      |    710     |   1.51    |      10      |      10      |      20      |  3.2   |     7.5     
+        |           -11 |        -98 |    -0.038 |          +26 |           +2 |           +6 |   +0.0 |         -0.5
+   2    |      124      |    612     |   1.47    |      36      |      12      |      26      |  3.2   |     7.0     
+        |            -9 |        -98 |    -0.100 |          +21 |           +2 |           -5 |   +0.0 |         -1.0
+   3    |      115      |    515     |   1.37    |      57      |      14      |      21      |  3.2   |     6.0     
+        |            -8 |        -98 |    -0.125 |          +17 |           +2 |           -4 |   +0.0 |         -1.0
+   4    |      107      |    417     |   1.25    |      74      |      16      |      17      |  3.2   |     5.0     
+        |            -6 |        -98 |    -0.133 |          +13 |          +19 |           +6 |   +0.0 |         -2.0
+   5    |      101      |    320     |   1.11    |      87      |      35      |      23      |  3.2   |     3.0     
+        |            -6 |       -128 |    -0.242 |           +1 |          +25 |           +2 |   -0.5 |         -2.0
+   6    |      95       |    192     |   0.87    |      88      |      60      |      25      |  2.7   |     1.0     
+        |            -6 |       -174 |    -0.340 |          +32 |          +28 |           +3 |   +0.0 |         +4.0
+   7    |      89       |     18     |   0.53    |     120      |      88      |      28      |  2.7   |     5.0     
+        |            -7 |        -18 |    -0.452 |         -120 |          -88 |          -28 |   -2.7 |         -5.0
+   8    |      82       |     0      |   0.08    |      0       |      0       |      0       |  0.0   |     0.0     
 
 ### Segment: Segment-0 ###
 	Chord:                 1.51m
-	Tube diameter:         140mm
+	Tube diameter:         135mm
 	Tube length:           0.71m
 	TE length:             0.68m
 	Delta canopy_angle:    20.0
@@ -60,7 +60,7 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
 
 ### Segment: Segment-1 ###
 	Chord:                 1.47m
-	Tube diameter:         127mm
+	Tube diameter:         124mm
 	Tube length:           0.62m
 	TE length:             0.58m
 	Delta canopy_angle:    26.0
@@ -68,90 +68,90 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
 	Distance from center:  1.32m
 
 ### Segment: Segment-2 ###
-	Chord:                 1.36m
-	Tube diameter:         116mm
+	Chord:                 1.37m
+	Tube diameter:         115mm
 	Tube length:           0.53m
 	TE length:             0.49m
 	Delta canopy_angle:    21.0
-	Area:                  0.67sqm
+	Area:                  0.68sqm
 	Distance from center:  1.84m
 
 ### Segment: Segment-3 ###
-	Chord:                 1.23m
-	Tube diameter:         106mm
+	Chord:                 1.25m
+	Tube diameter:         107mm
 	Tube length:           0.43m
 	TE length:             0.41m
 	Delta canopy_angle:    17.0
-	Area:                  0.48sqm
+	Area:                  0.50sqm
 	Distance from center:  2.25m
 
 ### Segment: Segment-4 ###
-	Chord:                 1.08m
-	Tube diameter:         98mm
+	Chord:                 1.11m
+	Tube diameter:         101mm
 	Tube length:           0.39m
-	TE length:             0.32m
+	TE length:             0.31m
 	Delta canopy_angle:    13.0
-	Area:                  0.31sqm
+	Area:                  0.32sqm
 	Distance from center:  2.57m
 
 ### Segment: Segment-5 ###
-	Chord:                 0.85m
-	Tube diameter:         91mm
+	Chord:                 0.87m
+	Tube diameter:         95mm
 	Tube length:           0.43m
-	TE length:             0.25m
+	TE length:             0.21m
 	Delta canopy_angle:    1.0
-	Area:                  0.09sqm
-	Distance from center:  2.79m
+	Area:                  0.08sqm
+	Distance from center:  2.77m
 
 ### Segment: Segment-6 ###
 	Chord:                 0.53m
-	Tube diameter:         83mm
+	Tube diameter:         89mm
 	Tube length:           0.45m
 	TE length:             0.00m
 	Delta canopy_angle:    32.0
 	Area:                  0.00sqm
-	Distance from center:  2.83m
+	Distance from center:  2.78m
 
 ### Segment: Segment-7 ###
 	Chord:                 0.08m
-	Tube diameter:         75mm
+	Tube diameter:         82mm
 	Tube length:           0.08m
 	TE length:             0.00m
 	Delta canopy_angle:    -120.0
 	Area:                  0.00sqm
-	Distance from center:  2.83m
+	Distance from center:  2.78m
 
 ## Bridle ##
   Depower:        20 degrees
-  Bar Depowerstroke: 0.41m
-  Angle between front lines:     5.72
+  Bar Depowerstroke: 0.42m
+  Angle between front lines:     5.75
 
   Towpoint
     off-center:  75% -> 1.20m
     backwards:   60% -> 0.15m
-    down:        125% -> 2.36m
+    down:        125% -> 2.30m
 
   First level - Fronttube (Center -> Tip)
     Line 
-     Length: 0.919m
+     Length: 0.907m
     Line 
-     Length: 0.506m
+     Length: 0.490m
     Line 
-     Length: 0.623m
+     Length: 0.600m
     Line 
-     Length: 0.386m
+     Length: 0.369m
 
   Second level (Center -> Tip)
     Line 
-     Length: 1.395m
+     Length: 1.360m
     Line 
-     Length: 0.584m
+     Length: 0.556m
     Line 
-     Length: 0.484m
+     Length: 0.478m
     Line 
-     Length: 25.044m
+     Length: 25.046m
 
-  Length of all lines: 8.82m
+  Length of all lines: 8.56m
 
 ## Seam allowances (mm) ##
   Sail:
@@ -171,38 +171,38 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
 ## Segment details ##
 
 ### Segment-0 ###
-    Diameter:            140.0mm
+    Diameter:            135.0mm
     Width:               710.1mm
     Canopy angle:        10.0
     Sweep angle:         10.0
     AoA:                 3.2
     Delta canopy angle:  20.0
     Origin:              x: 0.00m, y: 0.00m, z: 0.00m
-    Weight:              151.3g
+    Weight:              149.0g
  +Tube
     Length:            710.4mm
     Delta X:           699.3mm
     Delta Y:           21.7mm
     Delta Z:           -123.3mm
     Tube Vector:       x: 0.70m, y: 0.02m, z: -0.12m
-    Cloth:             0.30sqm
-    Cloth:             0.44 x 0.78m
-    Volume:            9.94l
+    Cloth:             0.29sqm
+    Cloth:             0.42 x 0.78m
+    Volume:            9.39l
     CG lever Z:        10.9mm
-    Weight:            83.43g
+    Weight:            81.06g
     Delta Tube Angle:  20.30
     Longest Edge Index: 149
-    Longest Edge length: 737.8mm
+    Longest Edge length: 737.0mm
  +Sail
     Chord:                 1.51m
     Area:                  1.08sqm
-    Length TE:             677.4mm
+    Length TE:             677.3mm
     Cloth:                 1.13sqm
     CG lever Z:            754.9mm
-    Weight:                67.86g
+    Weight:                67.93g
     Curvature:
-      additional height:   45.6mm
-      extension:           24.3mm
+      additional height:   45.4mm
+      extension:           24.1mm
 
     Sail panels:
       UV-Segment-0.sail.panel_0
@@ -221,35 +221,35 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Seam length:               1539.7mm
 
 ### Segment-1 ###
-    Diameter:            127.0mm
+    Diameter:            124.4mm
     Width:               612.4mm
     Canopy angle:        36.0
     Sweep angle:         12.0
     AoA:                 3.2
     Delta canopy angle:  26.0
     Origin:              x: 0.70m, y: 0.02m, z: -0.12m
-    Weight:              121.3g
+    Weight:              120.7g
  +Tube
     Length:            617.2mm
     Delta X:           495.4mm
     Delta Y:           76.5mm
     Delta Z:           -360.0mm
     Tube Vector:       x: 0.50m, y: 0.08m, z: -0.36m
-    Cloth:             0.24sqm
-    Cloth:             0.40 x 0.68m
-    Volume:            7.14l
+    Cloth:             0.23sqm
+    Cloth:             0.39 x 0.68m
+    Volume:            6.96l
     CG lever Z:        49.1mm
-    Weight:            65.89g
+    Weight:            65.05g
     Delta Tube Angle:  26.46
     Longest Edge Index: 148
-    Longest Edge length: 642.9mm
+    Longest Edge length: 642.5mm
  +Sail
     Chord:                 1.47m
     Area:                  0.88sqm
-    Length TE:             580.8mm
-    Cloth:                 0.92sqm
-    CG lever Z:            745.1mm
-    Weight:                55.39g
+    Length TE:             580.4mm
+    Cloth:                 0.93sqm
+    CG lever Z:            746.8mm
+    Weight:                55.68g
     Curvature:
       additional height:   39.8mm
       extension:           19.7mm
@@ -268,17 +268,17 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Thickness (orig.):         9.27
     Start:                     0
     Vertices:                  41
-    Seam length:               1493.9mm
+    Seam length:               1497.4mm
 
 ### Segment-2 ###
-    Diameter:            115.7mm
+    Diameter:            115.2mm
     Width:               514.8mm
     Canopy angle:        57.0
     Sweep angle:         14.0
     AoA:                 3.2
     Delta canopy angle:  21.0
     Origin:              x: 1.19m, y: 0.10m, z: -0.48m
-    Weight:              93.7g
+    Weight:              94.4g
  +Tube
     Length:            525.9mm
     Delta X:           280.4mm
@@ -287,21 +287,21 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Tube Vector:       x: 0.28m, y: 0.11m, z: -0.43m
     Cloth:             0.18sqm
     Cloth:             0.36 x 0.58m
-    Volume:            5.08l
+    Volume:            5.12l
     CG lever Z:        103.0mm
-    Weight:            51.31g
+    Weight:            51.50g
     Delta Tube Angle:  21.23
     Longest Edge Index: 148
-    Longest Edge length: 544.6mm
+    Longest Edge length: 544.7mm
  +Sail
-    Chord:                 1.36m
-    Area:                  0.67sqm
-    Length TE:             492.2mm
-    Cloth:                 0.71sqm
-    CG lever Z:            729.0mm
-    Weight:                42.39g
+    Chord:                 1.37m
+    Area:                  0.68sqm
+    Length TE:             491.6mm
+    Cloth:                 0.72sqm
+    CG lever Z:            734.9mm
+    Weight:                42.93g
     Curvature:
-      additional height:   27.0mm
+      additional height:   27.1mm
       extension:           11.2mm
 
     Sail panels:
@@ -318,17 +318,17 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Thickness (orig.):         9.27
     Start:                     0
     Vertices:                  41
-    Seam length:               1377.3mm
+    Seam length:               1389.2mm
 
 ### Segment-3 ###
-    Diameter:            106.1mm
+    Diameter:            107.4mm
     Width:               417.2mm
     Canopy angle:        74.0
     Sweep angle:         16.0
     AoA:                 3.2
     Delta canopy angle:  17.0
     Origin:              x: 1.48m, y: 0.21m, z: -0.92m
-    Weight:              69.4g
+    Weight:              70.9g
  +Tube
     Length:            432.8mm
     Delta X:           115.0mm
@@ -336,20 +336,20 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Delta Z:           -401.0mm
     Tube Vector:       x: 0.11m, y: 0.11m, z: -0.40m
     Cloth:             0.14sqm
-    Cloth:             0.33 x 0.48m
-    Volume:            3.55l
+    Cloth:             0.34 x 0.48m
+    Volume:            3.69l
     CG lever Z:        160.4mm
-    Weight:            38.88g
+    Weight:            39.66g
     Delta Tube Angle:  16.90
     Longest Edge Index: 145
-    Longest Edge length: 448.7mm
+    Longest Edge length: 449.0mm
  +Sail
-    Chord:                 1.23m
-    Area:                  0.48sqm
-    Length TE:             406.3mm
-    Cloth:                 0.51sqm
-    CG lever Z:            715.7mm
-    Weight:                30.53g
+    Chord:                 1.25m
+    Area:                  0.50sqm
+    Length TE:             406.8mm
+    Cloth:                 0.52sqm
+    CG lever Z:            726.4mm
+    Weight:                31.23g
 
     Sail panels:
       UV-Segment-3.sail.panel_0
@@ -362,38 +362,38 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Thickness (orig.):         9.27
     Start:                     0
     Vertices:                  41
-    Seam length:               1236.6mm
+    Seam length:               1258.3mm
 
 ### Segment-4 ###
-    Diameter:            98.2mm
+    Diameter:            101.0mm
     Width:               319.5mm
     Canopy angle:        87.0
-    Sweep angle:         34.0
+    Sweep angle:         35.0
     AoA:                 3.2
     Delta canopy angle:  13.0
     Origin:              x: 1.59m, y: 0.32m, z: -1.32m
-    Weight:              51.5g
+    Weight:              53.7g
  +Tube
-    Length:            385.2mm
+    Length:            389.9mm
     Delta X:           16.7mm
-    Delta Y:           215.2mm
+    Delta Y:           223.4mm
     Delta Z:           -319.1mm
     Tube Vector:       x: 0.02m, y: 0.22m, z: -0.32m
-    Cloth:             0.11sqm
-    Cloth:             0.31 x 0.42m
-    Volume:            2.71l
-    CG lever Z:        268.1mm
-    Weight:            32.08g
-    Delta Tube Angle:  21.95
-    Longest Edge Index: 146
-    Longest Edge length: 401.9mm
+    Cloth:             0.12sqm
+    Cloth:             0.32 x 0.43m
+    Volume:            2.94l
+    CG lever Z:        272.2mm
+    Weight:            33.62g
+    Delta Tube Angle:  22.77
+    Longest Edge Index: 147
+    Longest Edge length: 409.9mm
  +Sail
-    Chord:                 1.08m
-    Area:                  0.31sqm
-    Length TE:             317.2mm
-    Cloth:                 0.32sqm
-    CG lever Z:            701.8mm
-    Weight:                19.46g
+    Chord:                 1.11m
+    Area:                  0.32sqm
+    Length TE:             314.7mm
+    Cloth:                 0.33sqm
+    CG lever Z:            717.5mm
+    Weight:                20.03g
 
     Sail panels:
       UV-Segment-4.sail.panel_0
@@ -406,38 +406,38 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Thickness (orig.):         9.27
     Start:                     0
     Vertices:                  41
-    Seam length:               1086.3mm
+    Seam length:               1117.8mm
 
 ### Segment-5 ###
-    Diameter:            91.1mm
-    Width:               217.5mm
+    Diameter:            95.1mm
+    Width:               191.9mm
     Canopy angle:        88.0
-    Sweep angle:         54.0
-    AoA:                 3.5
+    Sweep angle:         60.0
+    AoA:                 2.7
     Delta canopy angle:  1.0
     Origin:              x: 1.61m, y: 0.54m, z: -1.64m
-    Weight:              38.7g
+    Weight:              40.0g
  +Tube
     Length:            429.0mm
-    Delta X:           7.6mm
-    Delta Y:           299.2mm
-    Delta Z:           -217.4mm
-    Tube Vector:       x: 0.01m, y: 0.30m, z: -0.22m
+    Delta X:           6.7mm
+    Delta Y:           332.3mm
+    Delta Z:           -191.8mm
+    Tube Vector:       x: 0.01m, y: 0.33m, z: -0.19m
     Cloth:             0.12sqm
-    Cloth:             0.29 x 0.47m
-    Volume:            2.56l
-    CG lever Z:        417.6mm
-    Weight:            32.91g
-    Delta Tube Angle:  20.03
+    Cloth:             0.30 x 0.47m
+    Volume:            2.85l
+    CG lever Z:        438.3mm
+    Weight:            34.70g
+    Delta Tube Angle:  25.03
     Longest Edge Index: 149
-    Longest Edge length: 389.9mm
+    Longest Edge length: 405.4mm
  +Sail
-    Chord:                 0.85m
-    Area:                  0.09sqm
-    Length TE:             246.2mm
-    Cloth:                 0.10sqm
-    CG lever Z:            691.6mm
-    Weight:                5.81g
+    Chord:                 0.87m
+    Area:                  0.08sqm
+    Length TE:             207.6mm
+    Cloth:                 0.09sqm
+    CG lever Z:            708.4mm
+    Weight:                5.28g
 
     Sail panels:
       UV-Segment-5.sail.panel_0
@@ -450,37 +450,37 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Thickness (orig.):         9.27
     Start:                     0
     Vertices:                  41
-    Seam length:               847.4mm
+    Seam length:               872.7mm
 
 ### Segment-6 ###
-    Diameter:            83.3mm
-    Width:               36.4mm
+    Diameter:            88.8mm
+    Width:               18.3mm
     Canopy angle:        120.0
-    Sweep angle:         86.0
-    AoA:                 3.5
+    Sweep angle:         88.0
+    AoA:                 2.7
     Delta canopy angle:  32.0
-    Origin:              x: 1.61m, y: 0.84m, z: -1.85m
-    Weight:              31.6g
+    Origin:              x: 1.61m, y: 0.88m, z: -1.83m
+    Weight:              34.1g
  +Tube
     Length:            453.8mm
-    Delta X:           -18.2mm
-    Delta Y:           451.2mm
-    Delta Z:           -31.5mm
-    Tube Vector:       x: -0.02m, y: 0.45m, z: -0.03m
-    Cloth:             0.11sqm
-    Cloth:             0.26 x 0.50m
-    Volume:            2.23l
-    CG lever Z:        643.2mm
-    Weight:            31.59g
-    Delta Tube Angle:  32.18
+    Delta X:           -9.1mm
+    Delta Y:           453.1mm
+    Delta Z:           -15.8mm
+    Tube Vector:       x: -0.01m, y: 0.45m, z: -0.02m
+    Cloth:             0.12sqm
+    Cloth:             0.28 x 0.50m
+    Volume:            2.60l
+    CG lever Z:        664.8mm
+    Weight:            34.08g
+    Delta Tube Angle:  28.08
     Longest Edge Index: 165
-    Longest Edge length: 470.1mm
+    Longest Edge length: 470.9mm
  +Sail
     Chord:                 0.53m
     Area:                  0.00sqm
     Length TE:             0.0mm
     Cloth:                 0.00sqm
-    CG lever Z:            683.8mm
+    CG lever Z:            704.3mm
     Weight:                0.00g
  +Profile
     Name:                      Segment-6.sail.profile
@@ -492,44 +492,44 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
 
 ### Segment-7 ###
     Wingtip
-    Diameter:            75.0mm
-    Diameter tip:        45.0mm
+    Diameter:            82.0mm
+    Diameter tip:        50.0mm
     Length:              80.0mm
-    Origin:              x: 1.60m, y: 1.29m, z: -1.88m
-    Weight:              4.6g
+    Origin:              x: 1.60m, y: 1.33m, z: -1.84m
+    Weight:              5.1g
  +Tube
     Length:            80.0mm
     Delta X:           0.0mm
     Delta Y:           0.0mm
     Delta Z:           0.0mm
-    Tube Vector:       x: -0.00m, y: 0.08m, z: -0.01m
+    Tube Vector:       x: -0.00m, y: 0.08m, z: -0.00m
     Cloth:             0.02sqm
-    Cloth:             0.24 x 0.09m
-    Volume:            0.23l
-    CG lever Z:        643.2mm
-    Weight:            4.64g
+    Cloth:             0.26 x 0.09m
+    Volume:            0.27l
+    CG lever Z:        664.8mm
+    Weight:            5.11g
     Delta Tube Angle:  0.00
     Longest Edge Index: 173
-    Longest Edge length: 80.8mm
+    Longest Edge length: 80.9mm
 
 ## Reference dimensions (lengths) ##
 Segment | Sail -> LE seam (mm) |  closing seam (mm)   |     ref-top (mm)     |    ref-front (mm)    |   ref-bottom (mm)    |
 -----------------------------------------------------------------------------------------------------------------------------
-   0    |                736.4 |                690.2 |                728.7 |                730.8 |                692.2 |
-   1    |                642.0 |                597.3 |                633.6 |                637.1 |                600.8 |
-   2    |                544.3 |                510.4 |                536.3 |                541.6 |                515.6 |
-   3    |                447.6 |                416.9 |                433.8 |                448.7 |                431.8 |
-   4    |                394.0 |                371.5 |                375.8 |                399.0 |                394.7 |
-   5    |                371.7 |                358.1 |                353.7 |                381.7 |                386.1 |
-   6    |                452.8 |                451.3 |                443.5 |                461.4 |                469.2 |
-   7    |                 80.0 |                 80.5 |                  0.0 |                  0.0 |                  0.0 |
+   0    |                735.7 |                690.7 |                728.2 |                730.2 |                692.7 |
+   1    |                641.7 |                597.6 |                633.3 |                636.8 |                601.0 |
+   2    |                544.3 |                510.3 |                536.3 |                541.6 |                515.6 |
+   3    |                448.1 |                416.6 |                432.6 |                449.0 |                432.9 |
+   4    |                398.6 |                374.4 |                377.2 |                405.4 |                402.6 |
+   5    |                383.8 |                371.0 |                366.2 |                396.5 |                401.3 |
+   6    |                452.4 |                453.4 |                445.2 |                461.9 |                470.2 |
+   7    |                 80.0 |                 80.6 |                  0.0 |                  0.0 |                  0.0 |
 
 ### Total length (per side)
-Closing seam:  3476mm
-Sail seam:     3669mm
-Ref-top:       3505mm
-Ref-front:     3600mm
-Ref-bottom:    3490mm
+Closing seam:  3495mm
+Sail seam:     3685mm
+Ref-top:       3519mm
+Ref-front:     3621mm
+Ref-bottom:    3516mm
 --------
-Longest edges: 3717mm
-Bladder delta: 240.8mm
+Longest edges: 3740mm
+Bladder delta: 245.6mm
