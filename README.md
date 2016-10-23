@@ -12,3 +12,8 @@ View the [design specs](https://github.com/wingworks/Agilus-7/blob/master/Agilus
 ![Kite 3D preview](https://github.com/wingworks/Agilus-7/blob/master/Agilus-7_bottom.png)
 
 ![Kite 3D preview](https://github.com/wingworks/Agilus-7/blob/master/Agilus-7_right.png)
+
+## Changes
+### Version 1.0
+* Changed tube diameters  (center and tip)
+* Adjusted wingtip angles 
